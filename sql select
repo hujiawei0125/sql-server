@@ -1,0 +1,2 @@
+using sql select 
+select [what you want to search] from [which table you need] where [condition] group by [grouping] order by [field]
